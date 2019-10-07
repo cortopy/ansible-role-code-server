@@ -7,4 +7,6 @@ code_server_port: 8080
 code_server_data_dir: "/home/{{code_server_user}}/.local/share/code-server"
 code_server_work_dir: "/home/{{code_server_user}}/"
 #tls_cert: ""
+tls_cert_remote: no
 #tls_key: ""
+tls_key_remote: no
