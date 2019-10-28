@@ -1,5 +1,5 @@
 ---
-code_server_ver: 2.1638-vsc1.39.2
+code_server_ver: 2.1650-vsc1.39.2
 #code_server_password: ""
 code_server_user: root
 code_server_host: 0.0.0.0
